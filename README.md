@@ -1,4 +1,4 @@
-readme_content = """
+
 # Coffee Sales Analysis  
 
 ## 📊 Project Overview  
